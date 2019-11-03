@@ -1,2 +1,2 @@
 # angular_fun
-innocent fun with TypeScript ;) 
+innocent fun with TypeScript ;)  
