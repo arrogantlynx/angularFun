@@ -1,3 +1,4 @@
 # angular_fun
 innocent fun with TypeScript ;)  
-# Git commits are working now yaay!!
+# git commits
+Git commits are working now yaay!!
