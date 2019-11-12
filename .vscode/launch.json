@@ -30,6 +30,7 @@
             "name": "Attach to Chrome",
             "port": 9222,
             "webRoot": "${workspaceFolder}"
+            //google-chrome --remote-debugging-port=9222
         }
     ]
 }
