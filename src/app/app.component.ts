@@ -10,7 +10,7 @@ export class AppComponent {
 
   model = new Model();
 
-  title = 'angularFun';
+  title = 'ToDo';
 
   getName() {
     return this.model.user;
